@@ -18,38 +18,13 @@
 
 This is a website of my hackerrank solution. It is named as simple article sorting.
 
-## LINK of full project: :point_right: . 
-
 ## Purpose :point_down:
 
 <div align="justified">
      
 I have made this website to practice react concepts.
      
-</div>
-
-## Folder Structure :point_down:
-```bash
-Simple Article Sorting
-     ├── Phones.js
-     ├── applePhones.js
-     ├── events.js
-     ├── index.css
-     └── index.js
-```           
-## Making :point_down:
-
-I have made this website using react framework in javascrpt.
-    
-## Screenshots :point_down: 
-
-<div align="center">
-    
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
-
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
-
-</div>
+</div> 
 
 Create a basic article sorting application, as shown below. Some core functionalities have already been implemented, but the application is not complete. Application requirements are given below, and the finished application must pass all of the unit tests.
 
