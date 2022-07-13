@@ -28,25 +28,6 @@ I have made this website to practice react concepts.
      
 </div>
 
-## Folder Structure :point_down:
-```bash
-Slideshow Application
-     ├── Phones.js
-     ├── applePhones.js
-     ├── events.js
-     ├── index.css
-     └── index.js
-```           
-## Screenshots :point_down: 
-
-<div align="center">
-    
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
-
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
-
-</div>
-
 ## Environment 
 
 - React Version: 16.13.1
